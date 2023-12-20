@@ -9,4 +9,6 @@
 <p>* JAVASCRIPT </p>
 <p align="center">Controle de versão:</p> <br> <br>
 <p>* GIT</p>
-<P>* GITHUB</P>
+<P>* GITHUB</P> <br> <br>
+<img src="projeto.jpg.png" alt="Imagem do meu projeto">
+
